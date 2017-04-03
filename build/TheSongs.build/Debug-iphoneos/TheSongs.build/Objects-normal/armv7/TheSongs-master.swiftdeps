@@ -1,0 +1,10 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.48 clang-802.0.38)"
+options: "90555634c5aed2a8def1a74fb14884b6"
+build_time: [544541772, 682919000]
+inputs:
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/Classes/Model/SongInfoModel/SongInfoModel.swift": [544480354, 0]
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/Scenes/ViewControllers/SongsListViewController/SongTableViewCell.swift": [544447371, 0]
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/AppDelegate/AppDelegate.swift": [544454092, 0]
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/Classes/Manager/MusicLibrary/MusicLibrary.swift": [544480354, 0]
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/Scenes/ViewControllers/SongsListViewController/SongsListViewController.swift": [544535063, 0]
+  "/Users/pikadot/AppDevelopment/DemoApps/ProjectEcosia/Project/TheSongs/TheSongs/Scenes/ViewControllers/MusicPlayerViewController/MusicPlayerViewController.swift": [544541772, 0]

@@ -1,0 +1,266 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "MusicLibrary"
+provides-nominal:
+- "C8TheSongs12MusicLibrary"
+provides-member:
+- ["C8TheSongs12MusicLibrary", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Array"
+- "AssignmentPrecedence"
+- !private "Bundle"
+- "Dictionary"
+- !private "Int"
+- "MusicLibrary"
+- "SongInfoModel"
+- "StringLiteralType"
+- !private "UIImage"
+- !private "URL"
+- "UnicodeScalarType"
+depends-member:
+- !private ["Ps9AnyObject", "Bundle"]
+- !private ["Ps9AnyObject", "Int"]
+- ["Ps9AnyObject", "MusicLibrary"]
+- ["Ps9AnyObject", "SongInfoModel"]
+- !private ["Ps9AnyObject", "UIImage"]
+- !private ["Ps9AnyObject", "URL"]
+- !private ["Ps9AnyObject", "coverImage"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "main"]
+- !private ["Ps9AnyObject", "path"]
+- !private ["Ps9AnyObject", "songAssets"]
+- !private ["Ps9AnyObject", "songInfos"]
+- !private ["Ps9AnyObject", "songURL"]
+- !private ["Ps9AnyObject", "titel"]
+- !private ["Ps9AnyObject", "trackId"]
+- !private ["Ps9AnyObject", "writer"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "append"]
+- ["Sa", "init"]
+- !private ["Ps23BidirectionalCollection", "append"]
+- ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["CSo6Bundle", "main"]
+- !private ["CSo6Bundle", "path"]
+- !private ["Ps7CVarArg", "append"]
+- ["Ps7CVarArg", "init"]
+- !private ["Ps7CVarArg", "main"]
+- !private ["Ps7CVarArg", "path"]
+- !private ["Ps7CVarArg", "subscript"]
+- !private ["Ps10Collection", "append"]
+- ["Ps10Collection", "init"]
+- !private ["Ps10Collection", "subscript"]
+- ["Ps10Comparable", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "append"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "main"]
+- !private ["Ps28CustomDebugStringConvertible", "path"]
+- !private ["Ps28CustomDebugStringConvertible", "subscript"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "append"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps17CustomReflectable", "subscript"]
+- !private ["Ps23CustomStringConvertible", "append"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "main"]
+- !private ["Ps23CustomStringConvertible", "path"]
+- !private ["Ps23CustomStringConvertible", "subscript"]
+- !private ["Vs10Dictionary", "subscript"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "main"]
+- !private ["Ps9Equatable", "path"]
+- !private ["Ps25ExpressibleByArrayLiteral", "append"]
+- ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps30ExpressibleByDictionaryLiteral", "subscript"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "main"]
+- !private ["Ps8Hashable", "path"]
+- !private ["Si", "init"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["C8TheSongs12MusicLibrary", "Bundle"]
+- !private ["C8TheSongs12MusicLibrary", "Int"]
+- ["C8TheSongs12MusicLibrary", "MusicLibrary"]
+- ["C8TheSongs12MusicLibrary", "SongInfoModel"]
+- !private ["C8TheSongs12MusicLibrary", "UIImage"]
+- !private ["C8TheSongs12MusicLibrary", "URL"]
+- ["C8TheSongs12MusicLibrary", "createSongAssets"]
+- ["C8TheSongs12MusicLibrary", "deinit"]
+- ["C8TheSongs12MusicLibrary", "init"]
+- ["C8TheSongs12MusicLibrary", "shared"]
+- ["C8TheSongs12MusicLibrary", "songAssets"]
+- !private ["C8TheSongs12MusicLibrary", "songInfos"]
+- !private ["Ps17MutableCollection", "append"]
+- ["Ps17MutableCollection", "init"]
+- ["PSo8NSCoding", "init"]
+- ["PSo9NSCopying", "init"]
+- ["PSo16NSMutableCopying", "init"]
+- !private ["CSo8NSObject", "main"]
+- !private ["CSo8NSObject", "path"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "main"]
+- !private ["PSo16NSObjectProtocol", "path"]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- !private ["Ps22RandomAccessCollection", "append"]
+- ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps26RangeReplaceableCollection", "append"]
+- ["Ps26RangeReplaceableCollection", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "append"]
+- ["Ps8Sequence", "init"]
+- !private ["Ps8Sequence", "subscript"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["C8TheSongs13SongInfoModel", "coverImage"]
+- !private ["C8TheSongs13SongInfoModel", "init"]
+- !private ["C8TheSongs13SongInfoModel", "songURL"]
+- !private ["C8TheSongs13SongInfoModel", "titel"]
+- !private ["C8TheSongs13SongInfoModel", "trackId"]
+- !private ["C8TheSongs13SongInfoModel", "writer"]
+- !private ["Ps10Strideable", "init"]
+- ["SS", "init"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "init"]
+- !private ["CSo7UIImage", "init"]
+- !private ["V10Foundation3URL", "init"]
+- !private ["Ps14_ArrayProtocol", "append"]
+- ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps23_BidirectionalIndexable", "append"]
+- ["Ps23_BidirectionalIndexable", "init"]
+- !private ["Ps24_DestructorSafeContainer", "append"]
+- ["Ps24_DestructorSafeContainer", "init"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- !private ["Ps34_ExpressibleByFileReferenceLiteral", "init"]
+- !private ["Ps26_ExpressibleByImageLiteral", "init"]
+- ["Ps33_ExpressibleByStringInterpolation", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- ["Ps9_Hashable", "init"]
+- !private ["Ps9_Hashable", "main"]
+- !private ["Ps9_Hashable", "path"]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps10_Indexable", "append"]
+- ["Ps10_Indexable", "init"]
+- !private ["Ps10_Indexable", "subscript"]
+- !private ["Ps14_IndexableBase", "append"]
+- ["Ps14_IndexableBase", "init"]
+- !private ["Ps14_IndexableBase", "subscript"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps17_MutableIndexable", "append"]
+- ["Ps17_MutableIndexable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "append"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "subscript"]
+- !private ["Ps22_RandomAccessIndexable", "append"]
+- ["Ps22_RandomAccessIndexable", "init"]
+- !private ["Ps26_RangeReplaceableIndexable", "append"]
+- ["Ps26_RangeReplaceableIndexable", "init"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Ps23BidirectionalCollection"
+- !private "Ps17BitwiseOperations"
+- !private "CSo6Bundle"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "Ps10Comparable"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- !private "Vs10Dictionary"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- !private "Ps30ExpressibleByDictionaryLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "Ps8Hashable"
+- !private "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "C8TheSongs12MusicLibrary"
+- "Ps17MutableCollection"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo16NSMutableCopying"
+- !private "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- "Ps22RandomAccessCollection"
+- "Ps26RangeReplaceableCollection"
+- !private "P10Foundation20ReferenceConvertible"
+- "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "C8TheSongs13SongInfoModel"
+- !private "Ps10Strideable"
+- "SS"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "CSo7UIImage"
+- !private "V10Foundation3URL"
+- "Ps14_ArrayProtocol"
+- "Ps23_BidirectionalIndexable"
+- "Ps24_DestructorSafeContainer"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- !private "Ps34_ExpressibleByFileReferenceLiteral"
+- !private "Ps26_ExpressibleByImageLiteral"
+- "Ps33_ExpressibleByStringInterpolation"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- "Ps10_Indexable"
+- "Ps14_IndexableBase"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "Ps17_MutableIndexable"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps22_RandomAccessIndexable"
+- "Ps26_RangeReplaceableIndexable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Metal.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreText.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.apinotesc"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+interface-hash: "e07ce2dfdfa8d46b4e6440836e23f65f"
