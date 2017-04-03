@@ -1,5 +1,5 @@
 # Songs
-Create a simple iOS app that plays random .mp3 files from the location of your choice. The app should:
+Simple iOS app that plays random .mp3 files from the location of your choice.
 
 * Include a stop and start function
 
@@ -9,6 +9,4 @@ Create a simple iOS app that plays random .mp3 files from the location of your c
 
 * Have the ability to run in the background, allowing for other sounds to be output while continuing to play the .mp3
 
-* Be created without the use of third-party libraries
 
-Once you have completed your assignment, please submit your code to a private git repository or as an e-mail attachment (you might have to rename common archive extensions).
